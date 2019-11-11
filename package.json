@@ -1,0 +1,49 @@
+{
+  "name": "admin_panel",
+  "version": "1.0.0",
+  "description": "Admin Panel UI to manage CRUD operations, authentication and more",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premalk/admin_panel.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "ui",
+    "admin",
+    "crud"
+  ],
+  "author": "Premal Katigar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/premalk/admin_panel/issues"
+  },
+  "homepage": "https://github.com/premalk/admin_panel#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "react": "^16.10.2",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-dom": "^16.10.2",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.2.0",
+    "reactstrap": "^8.0.1",
+    "redux": "^4.0.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
